@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632625005 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp1\hello module 1\hello.cpp
+	"hello.h"
+
+1632625192 c:\users\haikal\documents\kuliah\semester 3\strukdat\tp1\hello module 1\hello.h
+	<iostream>
+	<cstdlib>
+
+1632625005 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp1\hello module 1\main.cpp
+	"hello.h"
+

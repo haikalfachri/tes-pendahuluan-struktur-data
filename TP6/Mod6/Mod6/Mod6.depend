@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635357772 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\mod6\mod6\test_dll_first_last.cpp
+	"DLL_First_Last.h"
+
+1635355062 c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\mod6\mod6\dll_first_last.h
+	<string>
+	<iostream>
+
+1635357477 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\mod6\mod6\dll_first_last.cpp
+	"DLL_First_Last.h"
+

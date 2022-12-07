@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634988585 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\tp6\bank.cpp
+	"bank.h"
+
+1634968630 c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\tp6\bank.h
+	<string>
+	<iostream>
+
+1634987069 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp6\tp6\main.cpp
+	"bank.h"
+

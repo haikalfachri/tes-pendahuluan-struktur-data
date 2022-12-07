@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633095401 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp3\tp3\main.cpp
+	"mahasiswa.h"
+
+1633095459 c:\users\haikal\documents\kuliah\semester 3\strukdat\tp3\tp3\mahasiswa.h
+	<iostream>
+
+1633095401 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp3\tp3\mahasiswa.cpp
+	"mahasiswa.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634413675 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp5\tp5\main.cpp
+	"menu.h"
+
+1634413675 c:\users\haikal\documents\kuliah\semester 3\strukdat\tp5\tp5\menu.h
+	<iostream>
+
+1634413748 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tp5\tp5\menu.cpp
+	"menu.h"
+
